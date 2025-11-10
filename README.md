@@ -1,5 +1,5 @@
 # Plants vs. Zombies Clone
-
+Cjj
 这是一个使用 Python 和 Pygame 开发的植物大战僵尸克隆版游戏。游戏保留了原版的核心玩法，同时加入了一些新的特性。
 
 ## 游戏特性
